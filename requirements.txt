@@ -1,0 +1,5 @@
+# requirements.txt
+
+discord.py==2.3.2
+unittest
+sqlite3
