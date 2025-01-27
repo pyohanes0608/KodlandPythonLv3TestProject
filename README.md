@@ -37,7 +37,7 @@ Discord Task Bot is a simple tool for managing tasks within small teams. It supp
 1. Clone the repository:
     ```bash
     git clone <repository_url>
-    cd discord-task-bot
+    cd KodlandPythonLv3TestProject
     ```
 
 2. Install dependencies:
